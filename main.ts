@@ -1,4 +1,4 @@
-//% weight=0 color=#5f9cd8  block="led"
+//% weight=0 color=#5f9cd8  block="Button"
 namespace led {
 
 
